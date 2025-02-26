@@ -22,7 +22,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# local env files (we're going to keep this in the repo for now)
+# local env files 
 .env*.local
 
 # vercel
